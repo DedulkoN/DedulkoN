@@ -1,4 +1,4 @@
-Hello:feet::feet::feet:
+Hello:smiley:
 
 My name is Nikita. I am a leading systems engineer:computer: at Baranovichi State University :mortar_board:
 
