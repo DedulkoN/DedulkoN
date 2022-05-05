@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @DedulkoN
-- 👀 I’m interested in c#
-- 🌱 I’m currently learning unity.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello.
+My name is Nikita, I am a leading systems engineer:computer: at Baranovichi State University :mortar_board:
 
+My work is based on .Net programming (desktop and web), information security and much related to these areas.
+
+Communication languages: Russian:ru:, English:gb: and Belarusian
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DedulkoN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
