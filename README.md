@@ -13,4 +13,4 @@ Communication languages: Russian:ru:, English:gb: and Belarusian
 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/DedulkoN/DedulkoN)](https:braydoncoyer.dev)
+
