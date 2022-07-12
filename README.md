@@ -4,7 +4,7 @@ My name is Nikita. I am a leading systems engineer:computer: at Baranovichi Stat
 
 My work is based on .Net programming (desktop and web), information security and much related to these areas.
 
-Communication languages: Russian:ru:, English:gb: and Belarusian
+Communication languages: Russian, English and Belarusian
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DedulkoN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
